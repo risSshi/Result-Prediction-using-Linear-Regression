@@ -11,3 +11,4 @@ Data can be found at http://bit.ly/w
 You can use R, Python, SAS Enterprise Miner or any other tool.
 What will be predicted score if a student studies for 8.5 hrs/ day?
 I have uploaded the codes too here.
+Youtube Video Link - https://youtu.be/OyZyP6gHH1c 
